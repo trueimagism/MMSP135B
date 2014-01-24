@@ -1,0 +1,7 @@
+// Colors
+$white: #ffffff;
+$lightGray: #F5F5F5;
+$gray: #5F5F5F;
+$darkGray: #333333;
+$black: #2A2A2A;
+$turquoise: #84CCD3;
