@@ -1,0 +1,3 @@
+// Typography - Font stacks
+$baseFontFamily: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$webFontFamily: ‘Lato’, sans-serif;
